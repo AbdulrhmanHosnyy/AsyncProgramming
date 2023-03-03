@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\bin\Debug\net6.0\CA06TaskDelay.exe
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\bin\Debug\net6.0\CA06TaskDelay.deps.json
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\bin\Debug\net6.0\CA06TaskDelay.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\bin\Debug\net6.0\CA06TaskDelay.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\bin\Debug\net6.0\CA06TaskDelay.pdb
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\refint\CA06TaskDelay.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.pdb
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\CA06TaskDelay.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA06TaskDelay\obj\Debug\net6.0\ref\CA06TaskDelay.dll

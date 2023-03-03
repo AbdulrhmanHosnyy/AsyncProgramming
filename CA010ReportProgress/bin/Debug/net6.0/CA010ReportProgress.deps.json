@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CA010ReportProgress/1.0.0": {
+        "runtime": {
+          "CA010ReportProgress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA010ReportProgress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

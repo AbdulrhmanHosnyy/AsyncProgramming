@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net6.0\CA01ThreadVsTasks.exe
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net6.0\CA01ThreadVsTasks.deps.json
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net6.0\CA01ThreadVsTasks.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net6.0\CA01ThreadVsTasks.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net6.0\CA01ThreadVsTasks.pdb
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\refint\CA01ThreadVsTasks.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.pdb
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\CA01ThreadVsTasks.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net6.0\ref\CA01ThreadVsTasks.dll

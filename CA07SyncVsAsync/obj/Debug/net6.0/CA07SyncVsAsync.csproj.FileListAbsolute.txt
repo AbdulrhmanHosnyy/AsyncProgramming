@@ -1,0 +1,15 @@
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\bin\Debug\net6.0\CA07SyncVsAsync.exe
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\bin\Debug\net6.0\CA07SyncVsAsync.deps.json
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\bin\Debug\net6.0\CA07SyncVsAsync.runtimeconfig.json
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\bin\Debug\net6.0\CA07SyncVsAsync.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\bin\Debug\net6.0\CA07SyncVsAsync.pdb
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.csproj.AssemblyReference.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.AssemblyInfoInputs.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.AssemblyInfo.cs
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.csproj.CoreCompileInputs.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\refint\CA07SyncVsAsync.dll
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.pdb
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\CA07SyncVsAsync.genruntimeconfig.cache
+E:\Studies\Projects\CSharpProjects\AsyncProgramming\CA07SyncVsAsync\obj\Debug\net6.0\ref\CA07SyncVsAsync.dll
